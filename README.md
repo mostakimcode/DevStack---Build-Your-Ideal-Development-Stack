@@ -25,6 +25,7 @@ removing items from a live sidebar.
 ## React Questions
 
 **What is JSX, and why is it used in React?**
+
 JSX is a syntax extension that lets us write HTML-like markup directly inside
 JavaScript/TypeScript files. React uses it because it makes describing what
 the UI should look like much easier to read and write than calling
