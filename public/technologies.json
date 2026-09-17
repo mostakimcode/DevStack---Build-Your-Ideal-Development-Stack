@@ -1,0 +1,152 @@
+[
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "./assets/react.png",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed superset of JavaScript that adds static types for safer, more predictable code.",
+    "icon": "./assets/typescript.png",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "The core scripting language of the web, used to build interactive and dynamic experiences.",
+    "icon": "./assets/javascript.png",
+    "rating": 4.7,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework that lets you design directly in your markup without writing custom CSS.",
+    "icon": "./assets/tailwindcss.png",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Fast"
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "A JavaScript runtime built on Chrome's V8 engine for building fast, scalable server-side applications.",
+    "icon": "./assets/nodejs.png",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": "expressjs",
+    "name": "Express.js",
+    "category": "Backend",
+    "description": "A minimal and flexible Node.js web framework for building APIs and web applications quickly.",
+    "icon": "./assets/expressjs.png",
+    "rating": 4.5,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "icon": "./assets/postgresql.png",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A flexible NoSQL document database designed for scalability and fast, iterative development.",
+    "icon": "./assets/mongodb.png",
+    "rating": 4.6,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "category": "Database",
+    "description": "An in-memory key-value store used for caching, session storage, and real-time data.",
+    "icon": "./assets/redis.png",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A platform for packaging applications into lightweight, portable containers.",
+    "icon": "./assets/docker.png",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Containers"
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "category": "DevOps",
+    "description": "An open-source system for automating deployment, scaling, and management of containerized apps.",
+    "icon": "./assets/kubernetes.png",
+    "rating": 4.5,
+    "difficulty": "Advanced",
+    "badge": "Scalable"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "category": "Tools",
+    "description": "A distributed version control system for tracking changes in source code during development.",
+    "icon": "./assets/git.png",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "category": "Backend",
+    "description": "A query language for APIs that lets clients request exactly the data they need.",
+    "icon": "./assets/graphql.png",
+    "rating": 4.6,
+    "difficulty": "Advanced",
+    "badge": "Modern"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "A React framework that adds server-side rendering, routing, and full-stack capabilities.",
+    "icon": "./assets/nextjs.png",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  },
+  {
+    "id": "svelte",
+    "name": "Svelte",
+    "category": "Frontend",
+    "description": "A compiler-based frontend framework that ships less JavaScript for lightning-fast apps.",
+    "icon": "./assets/svelte.png",
+    "rating": 4.6,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Fast"
+  }
+]
