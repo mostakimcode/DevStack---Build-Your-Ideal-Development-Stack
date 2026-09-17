@@ -14,8 +14,7 @@ const Footer = () => {
         <img src={LogoMark} alt="Dev Stack" className="h-8 w-auto object-contain" />
 
         <p className="text-sm text-base-content/60 max-w-xs">
-          Curated tools, technologies, and resources for developers
-building modern software.
+          Curated tools, technologies, and resources for developers building modern software.
         </p>
 
         <div className="flex items-center gap-4 font-semibold text-sm text-base-content/70">
@@ -34,8 +33,7 @@ building modern software.
             
           </div>
           <p className="text-sm text-base-content/60 mb-4">
-           Curated tools, technologies, and resources for developers
-building modern software.
+           Curated tools, technologies, and resources for developers building modern software.
           </p>
           <div className="flex items-center gap-4 font-semibold text-sm text-base-content/70">
           <span className="cursor-pointer hover:text-primary">GitHub</span>

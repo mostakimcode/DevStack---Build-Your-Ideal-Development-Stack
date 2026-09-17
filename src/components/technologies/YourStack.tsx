@@ -17,7 +17,7 @@ const YourStack = ({ stack, handleRemoveFromStack, handleRemoveAll }: IYourStack
           : `${stack.length} Technology Selected`}
       </p>
 
-      {/* Conditional rendering: empty message vs. the list of picked items */}
+      
       {stack.length === 0 ? (
         <div className="border-2 border-dashed border-base-300 rounded-xl py-10 text-center text-base-content/40">
           Your stack is empty.
