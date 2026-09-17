@@ -10,6 +10,7 @@ const Banner = () => {
           <span className={GRADIENT_TEXT}>Development Stack</span>
         </h1>
 
+
         <p className="mt-4 text-base-content/70 max-w-xl mx-auto lg:mx-0 md:text-[18px]">
           Explore frontend, backend, database, and tooling options,
           compare them side by side, and put together the perfect stack that fits your
